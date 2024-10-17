@@ -1,0 +1,11 @@
+DHT22
+
+https://wokwi.com/projects/368619389073806337
+
+Higrómetro FC 28
+
+https://www.tinkercad.com/things/2t1Zfnq4nhm-control-de-humedad-en-tierra-invernadero
+
+LDR + tiras LED
+
+https://www.tinkercad.com/things/9aFNEoLWlKq-control-de-tiras-led-para-invernadero
